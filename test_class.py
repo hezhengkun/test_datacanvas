@@ -28,7 +28,7 @@ man1.run()
 
 man1.name = "wxw"
 man1.run()
-
+#Show the salary
 man1.money("30w")
 
 
